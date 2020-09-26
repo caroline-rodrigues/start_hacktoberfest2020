@@ -4,7 +4,7 @@
 - Github: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
 
 
-Name: Ashwini Tanpure
+Name: [Ashwini Tanpure](https://github.com/ashwinitanpure)
 Place: Maharastra, India
 Bio: Full stack developer
-Github: https://github.com/ashwinitanpure
+Github:[Ashwini Tanpure] https://github.com/ashwinitanpure
