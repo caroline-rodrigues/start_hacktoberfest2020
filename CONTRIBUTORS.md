@@ -1,4 +1,4 @@
-#### Name: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
-- Place: Ce, Brazil
-- Bio: FrontEnd Developer
-- Github: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
+#### Name: [Richard Timothy](https://github.com/RichardTimothy1307)
+- Place: Awarpur,Maharastra,India
+- Bio: A Student
+- Github: [Richard Timothy](https://github.com/RichardTimothy1307)
