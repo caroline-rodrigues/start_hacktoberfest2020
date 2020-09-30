@@ -5,7 +5,6 @@
 
 'use strict'
 
-const hello = "Hello World"
+let  hello = "Hello World"
 
 console.log(hello);
-alert(hello);
