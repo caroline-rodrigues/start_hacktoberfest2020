@@ -23,3 +23,8 @@
 - Bio: FrontEnd and ML Developer
 - Github: [siddharthdeo99](https://github.com/siddharthdeo99)
 
+### Name: [Rishika Jain](https://github.com/Rishika-7)
+- Place: India
+- Bio: Student at BIT
+- GitHub: [Rishika-7](https://github.com/Rishika-7)
+
