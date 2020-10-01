@@ -23,6 +23,11 @@
 - Bio: FrontEnd and ML Developer
 - Github: [siddharthdeo99](https://github.com/siddharthdeo99)
 
+#### Name: [Rahul Pawar] (https://github.com/pawarrahul1002)
+- Place: pune,India
+- Bio: FrontEnd and ML Developer
+- Github: [pawarrahul1002](https://github.com/pawarrahul1002)
+
 ### Name: [Rishika Jain](https://github.com/Rishika-7)
 - Place: India
 - Bio: Student at BIT
