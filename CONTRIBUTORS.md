@@ -23,3 +23,8 @@
 - Bio: FrontEnd and ML Developer
 - Github: [siddharthdeo99](https://github.com/siddharthdeo99)
 
+#### Name: [Iele Passos](https://github.com/ielepassos)
+- Place: PB, Brazil
+- Bio: PyLadiePb, computer science student and photographer. 
+- Github: [ielepassos](https://github.com/ielepassos)
+
