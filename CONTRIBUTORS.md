@@ -8,3 +8,13 @@
 - Bio: Machine Learning Engineer
 - Github: [Riya Gupta](https://github.com/iriyagupta)
  
+#### Name: [Ashwini Tanpure](https://github.com/ashwinitanpure)
+- Place: Pune, Maharastra, India
+- Bio:  Full stack developer
+- GitHub: [Ashwini Tanpure](https://github.com/ashwinitanpure)
+
+#### Name: [Siddharth lal deo](https://github.com/siddharthdeo99)
+- Place: Patna,India
+- Bio: FrontEnd and ML Developer
+- Github: [siddharthdeo99](https://github.com/siddharthdeo99)
+
