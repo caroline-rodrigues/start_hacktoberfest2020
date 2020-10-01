@@ -23,3 +23,8 @@
 - Bio: FrontEnd and ML Developer
 - Github: [siddharthdeo99](https://github.com/siddharthdeo99)
 
+#### Name: [Monika Jha](https://github.com/m-code12)
+- Place: Mumbai, India
+- Bio: FrontEnd Developer and Open Source Enthusiast
+- Github: [Monika Jha](https://github.com/m-code12)
+
