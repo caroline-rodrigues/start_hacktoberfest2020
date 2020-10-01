@@ -1,13 +1,18 @@
 
+#### Name: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
+- Place: Ce, Brazil
+- Bio: FrontEnd Developer
+- Github: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
+
 #### Name: [Rudra Barad](https://github.com/rudrabarad)
 - Place: Gujarat, India
 - Bio: Graphics Designer
 - Github: [Rudra Barad](https://github.com/rudrabarad)
 
-#### Name: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
-- Place: Ce, Brazil
-- Bio: FrontEnd Developer
-- Github: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
+#### Name: [Darren Ngatimin](https://github.com/dngatimin95)
+- Place: Singapore, Singapore
+- Bio: BackEnd Developer
+- GitHub: [Darren Ngatimin](https://github.com/dngatimin95)
 
 #### Name: [Souradeep Dutta](https://github.com/souraexx)
 - Place: Kolkata, India
@@ -78,3 +83,4 @@
 - Place: Goias, Brazil.
 - Bio: Student
 - Github: [MaxwellOliveira01](https://github.com/MaxwellOliveira01)
+
