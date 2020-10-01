@@ -3,6 +3,11 @@
 - Bio: FrontEnd Developer
 - Github: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
 
+#### Name: [Renier Trenuela](https://github.com/throwexceptions)
+- Place: Cavite, Philippines
+- Bio: Software Engineer
+- Github: [throwexceptions](https://github.com/throwexceptions)
+
 #### Name: [Michelle Tanoto](https://github.com/tanoto-the-explorer)
 - Place: Sydney, NSW, Australia
 - Bio: Software Developer
@@ -52,4 +57,3 @@
 - Place: Goias, Brazil.
 - Bio: Student
 - Github: [MaxwellOliveira01](https://github.com/MaxwellOliveira01)
-
