@@ -1,3 +1,9 @@
+
+#### Name: [Rudra Barad](https://github.com/rudrabarad)
+- Place: Gujarat, India
+- Bio: Graphics Designer
+- Github: [Rudra Barad](https://github.com/rudrabarad)
+
 #### Name: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
 - Place: Ce, Brazil
 - Bio: FrontEnd Developer
@@ -67,3 +73,4 @@
 - Place: Goias, Brazil.
 - Bio: Student
 - Github: [MaxwellOliveira01](https://github.com/MaxwellOliveira01)
+
