@@ -28,3 +28,12 @@
 - Bio: FrontEnd Developer and Open Source Enthusiast
 - Github: [Monika Jha](https://github.com/m-code12)
 
+#### Name: [Iele Passos](https://github.com/ielepassos)
+- Place: PB, Brazil
+- Bio: PyLadiePb, computer science student and photographer. 
+- Github: [ielepassos](https://github.com/ielepassos)
+
+#### Name: [Maxwell Oliveira](https://github.com/MaxwellOliveira01)
+- Place: Goias, Brazil.
+- Bio: Student
+- Github: [MaxwellOliveira01](https://github.com/MaxwellOliveira01)
