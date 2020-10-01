@@ -23,6 +23,11 @@
 - Bio: FrontEnd and ML Developer
 - Github: [siddharthdeo99](https://github.com/siddharthdeo99)
 
+#### Name: [Monika Jha](https://github.com/m-code12)
+- Place: Mumbai, India
+- Bio: FrontEnd Developer and Open Source Enthusiast
+- Github: [Monika Jha](https://github.com/m-code12)
+
 #### Name: [Iele Passos](https://github.com/ielepassos)
 - Place: PB, Brazil
 - Bio: PyLadiePb, computer science student and photographer. 
@@ -32,6 +37,3 @@
 - Place: Goias, Brazil.
 - Bio: Student
 - Github: [MaxwellOliveira01](https://github.com/MaxwellOliveira01)
-
-
-
