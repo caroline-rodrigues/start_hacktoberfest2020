@@ -14,6 +14,7 @@ Estácio FIC
 - Pets
 - Art
 - Travel
+- Eat
 
 ### Development
 
