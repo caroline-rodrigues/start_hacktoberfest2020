@@ -3,6 +3,11 @@
 - Bio: FrontEnd Developer
 - Github: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
 
+#### Name: [Vishal Tiwari](https://github.com/vishu1694)
+- Place: Gorakhpur, India
+- Bio: Fullstack Developer
+- Github: [Vishal Tiwari](https://github.com/vishu1694)
+
 #### Name: [Vinamra](https://github.com/Vinamra2009)
 - Place: Bangalore,India
 - Bio: Full Stack Web Developer
@@ -62,4 +67,3 @@
 - Place: Goias, Brazil.
 - Bio: Student
 - Github: [MaxwellOliveira01](https://github.com/MaxwellOliveira01)
-
