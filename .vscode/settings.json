@@ -1,4 +1,5 @@
 {
+
     "files.associations": {
         "atomic": "cpp",
         "cmath": "cpp",
@@ -39,4 +40,7 @@
         "xtr1common": "cpp",
         "xutility": "cpp"
     }
+
+    "python.pythonPath": "C:\\Python38\\python.exe"
+
 }
