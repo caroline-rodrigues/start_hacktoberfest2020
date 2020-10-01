@@ -23,6 +23,11 @@
 - Bio: FrontEnd and ML Developer
 - Github: [siddharthdeo99](https://github.com/siddharthdeo99)
 
+### Name: [Rishika Jain](https://github.com/Rishika-7)
+- Place: India
+- Bio: Student at BIT
+- GitHub: [Rishika-7](https://github.com/Rishika-7)
+
 #### Name: [Monika Jha](https://github.com/m-code12)
 - Place: Mumbai, India
 - Bio: FrontEnd Developer and Open Source Enthusiast
@@ -37,3 +42,4 @@
 - Place: Goias, Brazil.
 - Bio: Student
 - Github: [MaxwellOliveira01](https://github.com/MaxwellOliveira01)
+
