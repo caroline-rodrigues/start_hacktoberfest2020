@@ -23,3 +23,9 @@
 - Bio: FrontEnd and ML Developer
 - Github: [siddharthdeo99](https://github.com/siddharthdeo99)
 
+#### Name: [Maxwell Oliveira](https://github.com/MaxwellOliveira01)
+- Place: Goias, Brazil.
+- Bio: Student
+- Github: [MaxwellOliveira01](https://github.com/MaxwellOliveira01)
+
+
