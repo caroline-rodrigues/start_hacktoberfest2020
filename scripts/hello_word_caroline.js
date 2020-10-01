@@ -1,11 +1,11 @@
 // LANGUAGE: JavaScript
 // ENV: Node.js
 // AUTHOR: Caroline Rodrigues
-// GITHUB: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
+// GITHUB: [loracsilva](https://github.com/loracsilva)
 
 'use strict'
 
-let hello = "Hello World"
+const hello = "Hello World"
 
 console.log(hello);
 alert(hello);
