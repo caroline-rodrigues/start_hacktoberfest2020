@@ -27,3 +27,24 @@
 - Place: pune,India
 - Bio: FrontEnd and ML Developer
 - Github: [pawarrahul1002](https://github.com/pawarrahul1002)
+
+### Name: [Rishika Jain](https://github.com/Rishika-7)
+- Place: India
+- Bio: Student at BIT
+- GitHub: [Rishika-7](https://github.com/Rishika-7)
+
+#### Name: [Monika Jha](https://github.com/m-code12)
+- Place: Mumbai, India
+- Bio: FrontEnd Developer and Open Source Enthusiast
+- Github: [Monika Jha](https://github.com/m-code12)
+
+#### Name: [Iele Passos](https://github.com/ielepassos)
+- Place: PB, Brazil
+- Bio: PyLadiePb, computer science student and photographer. 
+- Github: [ielepassos](https://github.com/ielepassos)
+
+#### Name: [Maxwell Oliveira](https://github.com/MaxwellOliveira01)
+- Place: Goias, Brazil.
+- Bio: Student
+- Github: [MaxwellOliveira01](https://github.com/MaxwellOliveira01)
+
