@@ -3,6 +3,11 @@
 - Bio: FrontEnd Developer
 - Github: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
 
+#### Name: [Randil Tennakoon](https://github.com/randiltennakoon)
+- Place: Sri Lanka
+- Bio: Full Stack Developer
+- Github: [Randil Tennakoon](https://github.com/randiltennakoon)
+
 ### Name: [Riya Gupta](https://github.com/iriyagupta)
 - Place: IN
 - Bio: Machine Learning Engineer
