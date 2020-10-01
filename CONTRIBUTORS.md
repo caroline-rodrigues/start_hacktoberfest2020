@@ -9,6 +9,11 @@
 - Bio: FrontEnd Developer
 - Github: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
 
+#### Name: [Souradeep Dutta](https://github.com/souraexx)
+- Place: Kolkata, India
+- Bio: Web Developer
+- Github: [Souradeep Dutta](https://github.com/souraexx)
+
 #### Name: [Vishal Tiwari](https://github.com/vishu1694)
 - Place: Gorakhpur, India
 - Bio: Fullstack Developer
@@ -73,4 +78,3 @@
 - Place: Goias, Brazil.
 - Bio: Student
 - Github: [MaxwellOliveira01](https://github.com/MaxwellOliveira01)
-
