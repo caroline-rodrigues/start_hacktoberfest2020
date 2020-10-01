@@ -3,6 +3,11 @@
 - Bio: FrontEnd Developer
 - Github: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
 
+#### Name: [Vinamra](https://github.com/Vinamra2009)
+- Place: Bangalore,India
+- Bio: Full Stack Web Developer
+- Github: [Vinamra](https://github.com/Vinamra2009)
+
 #### Name: [Renier Trenuela](https://github.com/throwexceptions)
 - Place: Cavite, Philippines
 - Bio: Software Engineer
@@ -57,3 +62,4 @@
 - Place: Goias, Brazil.
 - Bio: Student
 - Github: [MaxwellOliveira01](https://github.com/MaxwellOliveira01)
+
