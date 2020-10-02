@@ -95,6 +95,11 @@
 - Bio: Student
 - Github: [MaxwellOliveira01](https://github.com/MaxwellOliveira01)
 
+#### Name [Shreya Gautam](https://github.com/ShreyaGautamm)
+- Place: Bihar, India
+- Bio: Sophomore Year Student at BIT, Mesra
+- Github: [Shreya Gautam](https://github.com/ShreyaGautamm)
+
 ### Name: [Vibhakar Sharma] (https://github.com/vibhakar025)
 - Place: New Delhi, India
 - Bio: Software Engineer
