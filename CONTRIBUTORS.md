@@ -9,6 +9,12 @@
 - Bio: Technical Writer
 - Github: [Pedro Alecrim](https://github.com/pedroalecrim)
 
+#### Name: [Atreyo Mandal](https://github.com/Atreyo69)
+- Place: Kolkata, West Bengal,India.
+- Bio: Student
+- Github: [Atreyo Mandal](https://github.com/Atreyo69)
+
+
 #### Name: [Rudra Barad](https://github.com/rudrabarad)
 - Place: Gujarat, India
 - Bio: Graphics Designer
@@ -93,3 +99,14 @@
 - Place: Bihar, India
 - Bio: Sophomore Year Student at BIT, Mesra
 - Github: [Shreya Gautam](https://github.com/ShreyaGautamm)
+
+### Name: [Vibhakar Sharma] (https://github.com/vibhakar025)
+- Place: New Delhi, India
+- Bio: Software Engineer
+- Github: [vibhakar025](https://github.com/vibhakar025)
+
+#### Name: [Amrita Singha Roy](https://github.com/uzumakinaruto96)
+- Place: West Bengal, India
+- Bio: SDET
+- Github: [Amrita Singha Roy](https://github.com/uzumakinaruto96)
+
