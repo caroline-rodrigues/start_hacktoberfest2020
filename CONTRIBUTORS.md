@@ -88,3 +88,8 @@
 - Place: Goias, Brazil.
 - Bio: Student
 - Github: [MaxwellOliveira01](https://github.com/MaxwellOliveira01)
+
+#### Name: [Amrita Singha Roy](https://github.com/uzumakinaruto96)
+- Place: West Bengal, India
+- Bio: SDET
+- Github: [Amrita Singha Roy](https://github.com/uzumakinaruto96)
