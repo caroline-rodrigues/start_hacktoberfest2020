@@ -95,7 +95,13 @@
 - Bio: Student
 - Github: [MaxwellOliveira01](https://github.com/MaxwellOliveira01)
 
+### Name: [Vibhakar Sharma] (https://github.com/vibhakar025)
+- Place: New Delhi, India
+- Bio: Software Engineer
+- Github: [vibhakar025](https://github.com/vibhakar025)
+
 #### Name: [Amrita Singha Roy](https://github.com/uzumakinaruto96)
 - Place: West Bengal, India
 - Bio: SDET
 - Github: [Amrita Singha Roy](https://github.com/uzumakinaruto96)
+
