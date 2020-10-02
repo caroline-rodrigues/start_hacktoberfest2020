@@ -9,6 +9,12 @@
 - Bio: Technical Writer
 - Github: [Pedro Alecrim](https://github.com/pedroalecrim)
 
+#### Name: [Atreyo Mandal](https://github.com/Atreyo69)
+- Place: Kolkata, West Bengal,India.
+- Bio: Student
+- Github: [Atreyo Mandal](https://github.com/Atreyo69)
+
+
 #### Name: [Rudra Barad](https://github.com/rudrabarad)
 - Place: Gujarat, India
 - Bio: Graphics Designer
