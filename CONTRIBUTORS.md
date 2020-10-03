@@ -110,3 +110,7 @@
 - Bio: SDET
 - Github: [Amrita Singha Roy](https://github.com/uzumakinaruto96)
 
+#### Name: [Simone Cheah](https://github.com/smcheah)
+- Place: Melbourne, Australia.
+- Bio: Student
+- Github: [smcheah](https://github.com/smcheah)
