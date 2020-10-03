@@ -110,3 +110,8 @@
 - Bio: SDET
 - Github: [Amrita Singha Roy](https://github.com/uzumakinaruto96)
 
+#### Name: [Dhanuesh R C](https://github.com/uzumakinaruto96)
+- Place: Karnataka,India
+- Bio: Student
+- Github: [rcs10](https://github.com/rcs10)
+
