@@ -110,3 +110,8 @@
 - Bio: SDET
 - Github: [Amrita Singha Roy](https://github.com/uzumakinaruto96)
 
+#### Name: [Nilavya Das](https://www.linkedin.com/in/nilavya-das-0ba627173/)
+- Place: Siliguri, West Bengal, India
+- Bio: Pre final year B.tech Student. 
+- Github: [Nilavya Das](https://github.com/nilavya2000)
+
