@@ -4,6 +4,14 @@
 - Bio: FrontEnd Developer
 - Github: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
 
+
+
+#### Name [Si Lam](https://github.com/silam)
+- Place: Minnesota, USA
+- Bio: Full Stack Software Engineer
+- Github: [Si Lam](https://github.com/silam)
+
+
 #### Name [Pedro Alecrim](https://github.com/pedroalecrim)
 - Place: Sp, Brazil
 - Bio: Technical Writer
