@@ -59,7 +59,12 @@
 - Place: IN
 - Bio: Machine Learning Engineer
 - Github: [Riya Gupta](https://github.com/iriyagupta)
- 
+
+#### Name: [Mcvean Soans](https://github.com/mcs-codes)
+- Place: Thane, India
+- Bio: Front-End Developer || AI / DL Enthusiast
+- Github: [Mcvean Soans](https://github.com/mcs-codes)
+
 #### Name: [Ashwini Tanpure](https://github.com/ashwinitanpure)
 - Place: Pune, Maharastra, India
 - Bio:  Full stack developer
@@ -87,7 +92,7 @@
 
 #### Name: [Iele Passos](https://github.com/ielepassos)
 - Place: PB, Brazil
-- Bio: PyLadiePb, computer science student and photographer. 
+- Bio: PyLadiePb, computer science student and photographer.
 - Github: [ielepassos](https://github.com/ielepassos)
 
 #### Name: [Maxwell Oliveira](https://github.com/MaxwellOliveira01)
@@ -109,4 +114,3 @@
 - Place: West Bengal, India
 - Bio: SDET
 - Github: [Amrita Singha Roy](https://github.com/uzumakinaruto96)
-
