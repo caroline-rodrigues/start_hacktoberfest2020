@@ -110,3 +110,8 @@
 - Bio: SDET
 - Github: [Amrita Singha Roy](https://github.com/uzumakinaruto96)
 
+#### Name: [Juli Cheng](https://github.com/julicheng)
+- Place: Manchester, UK
+- Bio: Front-end developer
+- GitHub: [Juli Cheng](https://github.com/julicheng)
+
