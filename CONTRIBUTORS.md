@@ -1,3 +1,7 @@
+#### Name: [Shivam Jain](https://github.com/shivamjain26)
+- Place: Raipur, India
+- Bio: Flutter developerr
+- Github: [Shivam Jain](https://github.com/shivamjain26)
 
 #### Name: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
 
@@ -70,7 +74,12 @@
 - Place: IN
 - Bio: Machine Learning Engineer
 - Github: [Riya Gupta](https://github.com/iriyagupta)
- 
+
+#### Name: [Mcvean Soans](https://github.com/mcs-codes)
+- Place: Thane, India
+- Bio: Front-End Developer || AI / DL Enthusiast
+- Github: [Mcvean Soans](https://github.com/mcs-codes)
+
 #### Name: [Ashwini Tanpure](https://github.com/ashwinitanpure)
 - Place: Pune, Maharastra, India
 - Bio:  Full stack developer
@@ -98,7 +107,7 @@
 
 #### Name: [Iele Passos](https://github.com/ielepassos)
 - Place: PB, Brazil
-- Bio: PyLadiePb, computer science student and photographer. 
+- Bio: PyLadiePb, computer science student and photographer.
 - Github: [ielepassos](https://github.com/ielepassos)
 
 #### Name: [Maxwell Oliveira](https://github.com/MaxwellOliveira01)
@@ -120,6 +129,16 @@
 - Place: West Bengal, India
 - Bio: SDET
 - Github: [Amrita Singha Roy](https://github.com/uzumakinaruto96)
+#### Name: [Athul Babu](https://github.com/athul4554)
+- Place: Kollam-kerala, India
+- Bio: IT student
+- Github: [athul4554](https://github.com/athul4554)
+
+#### Name: [Juli Cheng](https://github.com/julicheng)
+- Place: Manchester, UK
+- Bio: Front-end developer
+- GitHub: [Juli Cheng](https://github.com/julicheng)
+
 #### Name: [AANSH SARDANA](https://github.com/aansh-01)
 - Place: Delhi, India
 - Bio: Sophomore Year Student at NSUT, Delhi
@@ -169,3 +188,4 @@
 - Place: Karnataka,India
 - Bio: Student
 - Github: [rcs10](https://github.com/rcs10)
+
