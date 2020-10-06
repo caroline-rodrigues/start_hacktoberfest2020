@@ -160,3 +160,8 @@
 - Bio: Full Stack Developer
 - GitHub: [ishanbagchi](https://github.com/ishanbagchi)
 
+#### Name: [Dhanuesh R C](https://github.com/uzumakinaruto96)
+- Place: Karnataka,India
+- Bio: Student
+- Github: [rcs10](https://github.com/rcs10)
+
