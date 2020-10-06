@@ -116,7 +116,13 @@
 - Bio: SDET
 - Github: [Amrita Singha Roy](https://github.com/uzumakinaruto96)
 
+#### Name: [Clement Adriean Amirrthraj](https://github.com/ACAA06)
+- Place: Chennai, India
+- Bio: Full Stack Developer
+- Github: [Clement Adriean Amirrthraj](https://github.com/ACAA06)
+
 #### Name: [Sanket Chaudhari](https://github.com/sanketchaudhari10)
 - Place: Maharashtra, India
 - Bio: Student
 - Github: [Sanket Chaudhari](https://github.com/sanketchaudhari10)
+
