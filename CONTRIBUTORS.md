@@ -169,6 +169,11 @@
 - Bio: Computer Engineering Student Pursuing Bachelors degree
 - GitHub: [jiminnpark](https://github.com/jiminnpark)
 
+#### Name: [Ankur Palmia](https://github.com/ankurpalmia)
+- Place: New Delhi, India
+- Bio: Software Developer
+- GitHub: [ankurpalmia](https://github.com/ankurpalmia)
+
 #### Name: [Derrick Lai](https://github.com/derricklai33)
 - Place: Melbourne, Australia
 - Bio: Student Fullstack Developer
@@ -183,5 +188,4 @@
 - Place: Karnataka,India
 - Bio: Student
 - Github: [rcs10](https://github.com/rcs10)
-
 
