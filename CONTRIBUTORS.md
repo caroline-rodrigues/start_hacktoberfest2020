@@ -135,7 +135,13 @@
 - Bio: Student
 - Github: [Sanket Chaudhari](https://github.com/sanketchaudhari10)
 
+#### Name: [Simone Cheah](https://github.com/smcheah)
+- Place: Melbourne, Australia.
+- Bio: Student
+- Github: [smcheah](https://github.com/smcheah)
+
 #### Name: [Shivanshu Anant Suryakar](https://github.com/jiminnpark)
 - Place: Mumbai, Maharashtra, India
 - Bio: Computer Engineering Student Pursuing Bachelors degree
 - GitHub: [jiminnpark](https://github.com/jiminnpark)
+
