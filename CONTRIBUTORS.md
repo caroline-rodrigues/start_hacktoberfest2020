@@ -5,6 +5,11 @@
 - Bio: FrontEnd Developer
 - Github: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
 
+#### Name [Si Lam](https://github.com/silam)
+- Place: Minnesota, USA
+- Bio: Full Stack Software Engineer
+- Github: [Si Lam](https://github.com/silam)
+
 #### Name: [Tayler Le Grair](https://github.com/TaylerL)
 
 - Place: Ohio, US
@@ -125,10 +130,20 @@
 - Bio: Full Stack Developer
 - Github: [Clement Adriean Amirrthraj](https://github.com/ACAA06)
 
+#### Name: [Nilavya Das](https://www.linkedin.com/in/nilavya-das-0ba627173/)
+- Place: Siliguri, West Bengal, India
+- Bio: Pre final year B.tech Student. 
+- Github: [Nilavya Das](https://github.com/nilavya2000)
+
 #### Name: [Sanket Chaudhari](https://github.com/sanketchaudhari10)
 - Place: Maharashtra, India
 - Bio: Student
 - Github: [Sanket Chaudhari](https://github.com/sanketchaudhari10)
+
+#### Name: [Simone Cheah](https://github.com/smcheah)
+- Place: Melbourne, Australia.
+- Bio: Student
+- Github: [smcheah](https://github.com/smcheah)
 
 #### Name: [Shivanshu Anant Suryakar](https://github.com/jiminnpark)
 - Place: Mumbai, Maharashtra, India
@@ -139,3 +154,18 @@
 - Place: New Delhi, India
 - Bio: Software Developer
 - GitHub: [ankurpalmia](https://github.com/ankurpalmia)
+
+#### Name: [Derrick Lai](https://github.com/derricklai33)
+- Place: Melbourne, Australia
+- Bio: Student Fullstack Developer
+- Github: [derricklai33](https://github.com/derricklai33)
+
+#### Name: [Ishan Bagchi](https://github.com/ishanbagchi)
+- Place: Siliguri, West Bengal, India
+- Bio: Full Stack Developer
+- GitHub: [ishanbagchi](https://github.com/ishanbagchi)
+
+#### Name: [Dhanuesh R C](https://github.com/uzumakinaruto96)
+- Place: Karnataka,India
+- Bio: Student
+- Github: [rcs10](https://github.com/rcs10)
