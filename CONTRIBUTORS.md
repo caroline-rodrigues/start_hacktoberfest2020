@@ -1,3 +1,7 @@
+#### Name: [Shivam Jain](https://github.com/shivamjain26)
+- Place: Raipur, India
+- Bio: Flutter developerr
+- Github: [Shivam Jain](https://github.com/shivamjain26)
 
 #### Name: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
 
