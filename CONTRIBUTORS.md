@@ -115,6 +115,10 @@
 - Place: West Bengal, India
 - Bio: SDET
 - Github: [Amrita Singha Roy](https://github.com/uzumakinaruto96)
+#### Name: [AANSH SARDANA](https://github.com/aansh-01)
+- Place: Delhi, India
+- Bio: Sophomore Year Student at NSUT, Delhi
+- Github: [Amrita Singha Roy](https://github.com/aansh-01)
 
 #### Name: [Clement Adriean Amirrthraj](https://github.com/ACAA06)
 - Place: Chennai, India
