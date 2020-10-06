@@ -134,3 +134,8 @@
 - Place: Mumbai, Maharashtra, India
 - Bio: Computer Engineering Student Pursuing Bachelors degree
 - GitHub: [jiminnpark](https://github.com/jiminnpark)
+
+#### Name: [Ankur Palmia](https://github.com/ankurpalmia)
+- Place: New Delhi, India
+- Bio: Software Developer
+- GitHub: [ankurpalmia](https://github.com/ankurpalmia)
