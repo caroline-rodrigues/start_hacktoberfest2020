@@ -116,3 +116,7 @@
 - Bio: SDET
 - Github: [Amrita Singha Roy](https://github.com/uzumakinaruto96)
 
+#### Name: [Sanket Chaudhari](https://github.com/sanketchaudhari10)
+- Place: Maharashtra, India
+- Bio: Student
+- Github: [Sanket Chaudhari](https://github.com/sanketchaudhari10)
