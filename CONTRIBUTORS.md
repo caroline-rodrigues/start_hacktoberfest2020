@@ -145,3 +145,8 @@
 - Bio: Computer Engineering Student Pursuing Bachelors degree
 - GitHub: [jiminnpark](https://github.com/jiminnpark)
 
+#### Name: [Derrick Lai](https://github.com/derricklai33)
+- Place: Melbourne, Australia
+- Bio: Student Fullstack Developer
+- Github: [derricklai33](https://github.com/derricklai33)
+
