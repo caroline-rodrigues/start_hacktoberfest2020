@@ -1,8 +1,15 @@
 
 #### Name: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
+
 - Place: Ce, Brazil
 - Bio: FrontEnd Developer
 - Github: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
+
+#### Name: [Tayler Le Grair](https://github.com/TaylerL)
+
+- Place: Ohio, US
+- Bio: Electrical Engineer
+- Github: [Tayler Le Grair](https://github.com/TaylerL)
 
 #### Name [Pedro Alecrim](https://github.com/pedroalecrim)
 - Place: Sp, Brazil
@@ -13,7 +20,6 @@
 - Place: Kolkata, West Bengal,India.
 - Bio: Student
 - Github: [Atreyo Mandal](https://github.com/Atreyo69)
-
 
 #### Name: [Rudra Barad](https://github.com/rudrabarad)
 - Place: Gujarat, India
@@ -114,3 +120,9 @@
 - Place: Chennai, India
 - Bio: Full Stack Developer
 - Github: [Clement Adriean Amirrthraj](https://github.com/ACAA06)
+
+#### Name: [Sanket Chaudhari](https://github.com/sanketchaudhari10)
+- Place: Maharashtra, India
+- Bio: Student
+- Github: [Sanket Chaudhari](https://github.com/sanketchaudhari10)
+
