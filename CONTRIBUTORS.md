@@ -1,16 +1,20 @@
 
 #### Name: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
+
 - Place: Ce, Brazil
 - Bio: FrontEnd Developer
 - Github: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
-
-
 
 #### Name [Si Lam](https://github.com/silam)
 - Place: Minnesota, USA
 - Bio: Full Stack Software Engineer
 - Github: [Si Lam](https://github.com/silam)
 
+#### Name: [Tayler Le Grair](https://github.com/TaylerL)
+
+- Place: Ohio, US
+- Bio: Electrical Engineer
+- Github: [Tayler Le Grair](https://github.com/TaylerL)
 
 #### Name [Pedro Alecrim](https://github.com/pedroalecrim)
 - Place: Sp, Brazil
@@ -21,7 +25,6 @@
 - Place: Kolkata, West Bengal,India.
 - Bio: Student
 - Github: [Atreyo Mandal](https://github.com/Atreyo69)
-
 
 #### Name: [Rudra Barad](https://github.com/rudrabarad)
 - Place: Gujarat, India
@@ -117,4 +120,22 @@
 - Place: West Bengal, India
 - Bio: SDET
 - Github: [Amrita Singha Roy](https://github.com/uzumakinaruto96)
+#### Name: [AANSH SARDANA](https://github.com/aansh-01)
+- Place: Delhi, India
+- Bio: Sophomore Year Student at NSUT, Delhi
+- Github: [Amrita Singha Roy](https://github.com/aansh-01)
 
+#### Name: [Clement Adriean Amirrthraj](https://github.com/ACAA06)
+- Place: Chennai, India
+- Bio: Full Stack Developer
+- Github: [Clement Adriean Amirrthraj](https://github.com/ACAA06)
+
+#### Name: [Sanket Chaudhari](https://github.com/sanketchaudhari10)
+- Place: Maharashtra, India
+- Bio: Student
+- Github: [Sanket Chaudhari](https://github.com/sanketchaudhari10)
+
+#### Name: [Shivanshu Anant Suryakar](https://github.com/jiminnpark)
+- Place: Mumbai, Maharashtra, India
+- Bio: Computer Engineering Student Pursuing Bachelors degree
+- GitHub: [jiminnpark](https://github.com/jiminnpark)
