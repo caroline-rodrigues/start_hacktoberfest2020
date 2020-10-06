@@ -126,6 +126,11 @@
 - Bio: SDET
 - Github: [Amrita Singha Roy](https://github.com/uzumakinaruto96)
 
+#### Name: [Juli Cheng](https://github.com/julicheng)
+- Place: Manchester, UK
+- Bio: Front-end developer
+- GitHub: [Juli Cheng](https://github.com/julicheng)
+
 #### Name: [AANSH SARDANA](https://github.com/aansh-01)
 - Place: Delhi, India
 - Bio: Sophomore Year Student at NSUT, Delhi
@@ -170,4 +175,5 @@
 - Place: Karnataka,India
 - Bio: Student
 - Github: [rcs10](https://github.com/rcs10)
+
 
