@@ -150,3 +150,7 @@
 - Bio: Student Fullstack Developer
 - Github: [derricklai33](https://github.com/derricklai33)
 
+#### Name: [Ishan Bagchi](https://github.com/ishanbagchi)
+- Place: Siliguri, West Bengal, India
+- Bio: Full Stack Developer
+- GitHub: [ishanbagchi](https://github.com/ishanbagchi)
