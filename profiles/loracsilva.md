@@ -1,4 +1,4 @@
-# Caroline Rodrigues
+# Loracsilva
 
 ### Location
 
@@ -6,15 +6,11 @@ Fortaleza, Ceará , Brazil
 
 ### Academics
 
-Estácio FIC
+FIC
 
 ### Interests
 
-- Games
-- Pets
-- Art
 - Travel
-- Eat
 
 ### Development
 
@@ -24,8 +20,7 @@ Estácio FIC
 ### Projects
 
 - Everything has been on private repos for the mostpart... :'(
-- But you can see some stuff on my linkedIn (https://www.linkedin.com/in/carolinerodrigues/)
 
 ### Profile Link
 
-[Caroline Rodrigues](https://github.com/caroline-rodrigues)
+[loracsilva](https://github.com/cloracsilva)
