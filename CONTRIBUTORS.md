@@ -189,3 +189,7 @@
 - Bio: Student
 - Github: [rcs10](https://github.com/rcs10)
 
+#### Name: [Vishal Rajat](https://github.com/vrbro)
+- Place: New Delhi, Delhi, India
+- Bio: A UG student and developer?
+- GitHub: [vrbro](https://github.com/vrbro)
