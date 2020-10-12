@@ -189,3 +189,7 @@
 - Bio: Student
 - Github: [rcs10](https://github.com/rcs10)
 
+#### Name: [Rutuja Dicholkar](https://github.com/Rutujavd)
+- Place: Mumbai,India
+- Bio: Amatuer Student
+- Github: [Rutujavd](https://github.com/Rutujavd)
