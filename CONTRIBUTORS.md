@@ -267,3 +267,8 @@
 - Place: Kerala, India
 - Bio: Self motivated software developer. Technophile.
 - GitHub: [@joe733](https://github.com/joe733)
+
+#### Name: Billie Mackenzie
+- Place: Notts, UK
+- Bio: Data Engineer in the making
+- GitHub: [Billi3Mack](https://github.com/Billi3Mack)
