@@ -194,4 +194,7 @@
 - Bio: Student
 - Github: [lukas1505](https://github.com/lukas1505)
 
-
+#### Name: [Vishal Rajat](https://github.com/vrbro)
+- Place: New Delhi, Delhi, India
+- Bio: A UG student and developer?
+- GitHub: [vrbro](https://github.com/vrbro)
