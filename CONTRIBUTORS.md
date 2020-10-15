@@ -193,3 +193,19 @@
 - Place: Mumbai,India
 - Bio: Amatuer Student
 - Github: [Rutujavd](https://github.com/Rutujavd)
+
+#### Name: [H. Chardon](https://github.com/chardon1)
+- Place: Lannion, France
+- Bio: DevOPs Engineer
+- Github: [chardon1](https://github.com/chardon1)
+
+#### Name: [Lukas Paul](https://github.com/lukas1505)
+- Place: Munich, Germany
+- Bio: Student
+- Github: [lukas1505](https://github.com/lukas1505)
+
+#### Name: [Vishal Rajat](https://github.com/vrbro)
+- Place: New Delhi, Delhi, India
+- Bio: A UG student and developer?
+- GitHub: [vrbro](https://github.com/vrbro)
+
