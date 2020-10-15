@@ -189,6 +189,11 @@
 - Bio: Student
 - Github: [rcs10](https://github.com/rcs10)
 
+#### Name: [Lukas Paul](https://github.com/lukas1505)
+- Place: Munich, Germany
+- Bio: Student
+- Github: [lukas1505](https://github.com/lukas1505)
+
 #### Name: [Vishal Rajat](https://github.com/vrbro)
 - Place: New Delhi, Delhi, India
 - Bio: A UG student and developer?
