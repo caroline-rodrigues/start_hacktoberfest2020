@@ -189,6 +189,11 @@
 - Bio: Student
 - Github: [rcs10](https://github.com/rcs10)
 
+#### Name: [H. Chardon](https://github.com/chardon1)
+- Place: Lannion, France
+- Bio: DevOPs Engineer
+- Github: [chardon1](https://github.com/chardon1)
+
 #### Name: [Lukas Paul](https://github.com/lukas1505)
 - Place: Munich, Germany
 - Bio: Student
@@ -198,3 +203,4 @@
 - Place: New Delhi, Delhi, India
 - Bio: A UG student and developer?
 - GitHub: [vrbro](https://github.com/vrbro)
+
