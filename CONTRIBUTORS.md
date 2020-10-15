@@ -30,6 +30,11 @@
 - Bio: Student
 - Github: [Atreyo Mandal](https://github.com/Atreyo69)
 
+#### Name: [Drishti Chouhan](https://github.com/drishtichouhan)
+- Place: Jodhpur, Rajasthan, India.
+- Bio: Student, Web-Developer
+- Github: [Atreyo Mandal](https://github.com/drishtichouhan)
+
 #### Name: [Rudra Barad](https://github.com/rudrabarad)
 - Place: Gujarat, India
 - Bio: Graphics Designer
