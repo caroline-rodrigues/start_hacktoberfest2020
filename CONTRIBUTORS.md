@@ -267,3 +267,9 @@
 - Place: Kerala, India
 - Bio: Self motivated software developer. Technophile.
 - GitHub: [@joe733](https://github.com/joe733)
+
+### Name : [Musadiq Peerzada](https://github.com/muxa11)
+
+- Place: Kashmir, India
+- Bio: A Student who knows about web development, java, Spring, Pyhton, Android.
+- GitHub: [@muxa11](https://github.com/muxa11)
