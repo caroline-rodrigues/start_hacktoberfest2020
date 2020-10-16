@@ -4,6 +4,13 @@
 
 ### Hi there follow the pattern to add your bio
 
+
+#### Name: [Sougata Das](https://github.com/rijusougata13)
+
+- Place: Kolkata,India
+- Bio: Frontend developerr
+- Github: [Sougata Das](https://github.com/rijusougata13)
+
 #### Name: [Shivam Jain](https://github.com/shivamjain26)
 
 - Place: Raipur, India
