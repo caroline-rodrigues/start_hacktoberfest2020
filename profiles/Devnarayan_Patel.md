@@ -6,7 +6,7 @@ Atal Bihari Vajpayee University Bilaspur (C.G.)
 ### Interests
 - Games
 - Travel
-- Programming
+- Coding
 - Music
 ### Profile Link
 [Devnarayan Patel](https://github.com/github-dev21)
