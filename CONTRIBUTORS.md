@@ -271,4 +271,4 @@
 #### Name: [Devnarayan Patel](https://github.com/github-dev21)
 - Place: Raigarh, Chhattishgarh, India
 - Bio: Student
-- GitHub: [GitHub account name](https://github.com/github-dev21)
+- GitHub: [github-dev21](https://github.com/github-dev21)
