@@ -267,3 +267,9 @@
 - Place: Kerala, India
 - Bio: Self motivated software developer. Technophile.
 - GitHub: [@joe733](https://github.com/joe733)
+
+### Name: [Progyan Bhattacharya](https://progyan1997.github.io)
+
+- Place: Kolkata
+- Bio: SDE @ HackerRank, Open Source Enthusiast
+- Github: [@Progyan1997](https://github.com/Progyan1997)
