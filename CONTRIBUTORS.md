@@ -267,3 +267,9 @@
 - Place: Kerala, India
 - Bio: Self motivated software developer. Technophile.
 - GitHub: [@joe733](https://github.com/joe733)
+
+### Name : [Ricardo Dantas](https://dantas.tk)
+
+- Place: Recife, Brazil
+- Bio: AI Researcher
+- GitHub: [licensed](https://github.com/licensed)
