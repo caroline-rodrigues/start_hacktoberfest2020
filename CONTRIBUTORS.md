@@ -267,3 +267,8 @@
 - Place: Kerala, India
 - Bio: Self motivated software developer. Technophile.
 - GitHub: [@joe733](https://github.com/joe733)
+
+#### Name: [Shubham Solanki](https://github.com/shubhamsolank24)
+- Place: muzaffarnagar, Uttar pradesh, India
+- Bio: a UG student.
+- GitHub: [shubhamsolank24](https://github.com/shubhamsolank24)
