@@ -267,3 +267,9 @@
 - Place: Kerala, India
 - Bio: Self motivated software developer. Technophile.
 - GitHub: [@joe733](https://github.com/joe733)
+
+### Name : [Fajar Nur Trengginas](https://github.com/devfajar)
+
+- Place: Jombang, Indonesia
+- Bio: Student at software engineering
+- GitHub: [devfajar](https://github.com/devfajar)
