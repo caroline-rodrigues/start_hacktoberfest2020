@@ -267,3 +267,9 @@
 - Place: Kerala, India
 - Bio: Self motivated software developer. Technophile.
 - GitHub: [@joe733](https://github.com/joe733)
+
+### Name : [Fikri Aufaa Zain](https://github.com/fikriazain)
+
+- Place: Bogor, Indonesia
+- Bio: Undergraduate at University of Indonesia. Have an experience in Data Science and Machine Learning
+- GitHub: [fikriazain](https://github.com/fikriazain)
