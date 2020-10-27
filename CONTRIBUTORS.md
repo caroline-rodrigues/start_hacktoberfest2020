@@ -4,17 +4,18 @@
 
 ### Hi there follow the pattern to add your bio
 
-#### Name: [Shivam Jain](https://github.com/shivamjain26)
-
-- Place: Raipur, India
-- Bio: Flutter developerr
-- Github: [Shivam Jain](https://github.com/shivamjain26)
 
 #### Name: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
 
 - Place: Ce, Brazil
 - Bio: FrontEnd Developer
 - Github: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
+
+#### Name: [Shivam Jain](https://github.com/shivamjain26)
+
+- Place: Raipur, India
+- Bio: Flutter developerr
+- Github: [Shivam Jain](https://github.com/shivamjain26)
 
 #### Name [Si Lam](https://github.com/silam)
 
@@ -268,6 +269,12 @@
 - Bio: Self motivated software developer. Technophile.
 - GitHub: [@joe733](https://github.com/joe733)
 
+### Name: [Progyan Bhattacharya](https://progyan1997.github.io)
+
+- Place: Kolkata
+- Bio: SDE @ HackerRank, Open Source Enthusiast
+- Github: [@Progyan1997](https://github.com/Progyan1997)
+
 #### Name: [Shubham Solanki](https://github.com/shubhamsolank24)
 - Place: muzaffarnagar, Uttar pradesh, India
 - Bio: a UG student.
@@ -278,7 +285,6 @@
 - Place: Recife, Brazil
 - Bio: AI Researcher
 - GitHub: [licensed](https://github.com/licensed)
-
 
 ### Name : [Fikri Aufaa Zain](https://github.com/fikriazain)
 
