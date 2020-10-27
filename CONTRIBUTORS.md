@@ -272,3 +272,23 @@
 - Place: muzaffarnagar, Uttar pradesh, India
 - Bio: a UG student.
 - GitHub: [shubhamsolank24](https://github.com/shubhamsolank24)
+
+### Name : [Ricardo Dantas](https://dantas.tk)
+
+- Place: Recife, Brazil
+- Bio: AI Researcher
+- GitHub: [licensed](https://github.com/licensed)
+
+
+### Name : [Fikri Aufaa Zain](https://github.com/fikriazain)
+
+- Place: Bogor, Indonesia
+- Bio: Undergraduate at University of Indonesia. Have an experience in Data Science and Machine Learning
+- GitHub: [fikriazain](https://github.com/fikriazain)
+
+### Name : [Fajar Nur Trengginas](https://github.com/devfajar)
+
+- Place: Jombang, Indonesia
+- Bio: Student at software engineering
+- GitHub: [devfajar](https://github.com/devfajar)
+
