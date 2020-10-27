@@ -1,5 +1,7 @@
-rows = 6
-for num in range(rows):
-    for i in range(num):
-        print(num, end=" ") 
-   print(" ")
+rows=5
+for i in range(1,6):
+	for j in range(i):
+		print("*",end="")
+	print("")
+		
+
