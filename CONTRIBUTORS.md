@@ -269,6 +269,13 @@
 - GitHub: [@joe733](https://github.com/joe733)
 
 
+### Name : [Ricardo Dantas](https://dantas.tk)
+
+- Place: Recife, Brazil
+- Bio: AI Researcher
+- GitHub: [licensed](https://github.com/licensed)
+
+
 ### Name : [Fikri Aufaa Zain](https://github.com/fikriazain)
 
 - Place: Bogor, Indonesia
@@ -280,4 +287,5 @@
 - Place: Jombang, Indonesia
 - Bio: Student at software engineering
 - GitHub: [devfajar](https://github.com/devfajar)
+
 
