@@ -269,6 +269,11 @@
 - Bio: Self motivated software developer. Technophile.
 - GitHub: [@joe733](https://github.com/joe733)
 
+#### Name: [Rishabh Sharma](https://www.github.com/rishab05)
+- Place: Jodhpur, Rajasthan, India
+- Bio: Software Developer
+- GitHub: [rishab05](https://www.github.com/rishab05)
+
 #### Name: [Poomtum Rattanarat](https://github.com/TopsonArcana)
 
 - Place: Bangkok, Thailand
