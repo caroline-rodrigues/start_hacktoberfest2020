@@ -4,17 +4,18 @@
 
 ### Hi there follow the pattern to add your bio
 
-#### Name: [Shivam Jain](https://github.com/shivamjain26)
-
-- Place: Raipur, India
-- Bio: Flutter developerr
-- Github: [Shivam Jain](https://github.com/shivamjain26)
 
 #### Name: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
 
 - Place: Ce, Brazil
 - Bio: FrontEnd Developer
 - Github: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
+
+#### Name: [Shivam Jain](https://github.com/shivamjain26)
+
+- Place: Raipur, India
+- Bio: Flutter developerr
+- Github: [Shivam Jain](https://github.com/shivamjain26)
 
 #### Name [Si Lam](https://github.com/silam)
 
@@ -272,3 +273,50 @@
 - Place: Jodhpur, Rajasthan, India
 - Bio: Software Developer
 - GitHub: [rishab05](https://www.github.com/rishab05)
+
+#### Name: [Poomtum Rattanarat](https://github.com/TopsonArcana)
+
+- Place: Bangkok, Thailand
+- Bio: University Student
+- Github: [TopsonArcana](https://github.com/TopsonArcana)
+
+#### Name: [Devnarayan Patel](https://github.com/github-dev21)
+- Place: Raigarh, Chhattishgarh, India
+- Bio: Student
+- GitHub: [github-dev21](https://github.com/github-dev21)
+
+### Name : [Gomathi Aravindan] (https://github.com/gomathiaravindan)
+
+ -Place: Coimbatore, India
+ - Bio: Full Stack Web Developer, Self Motivator
+ - Github: [gomathi] (https://github.com/gomathiaravindan)
+
+### Name: [Progyan Bhattacharya](https://progyan1997.github.io)
+
+- Place: Kolkata
+- Bio: SDE @ HackerRank, Open Source Enthusiast
+- Github: [@Progyan1997](https://github.com/Progyan1997)
+
+#### Name: [Shubham Solanki](https://github.com/shubhamsolank24)
+- Place: muzaffarnagar, Uttar pradesh, India
+- Bio: a UG student.
+- GitHub: [shubhamsolank24](https://github.com/shubhamsolank24)
+
+### Name : [Ricardo Dantas](https://dantas.tk)
+
+- Place: Recife, Brazil
+- Bio: AI Researcher
+- GitHub: [licensed](https://github.com/licensed)
+
+### Name : [Fikri Aufaa Zain](https://github.com/fikriazain)
+
+- Place: Bogor, Indonesia
+- Bio: Undergraduate at University of Indonesia. Have an experience in Data Science and Machine Learning
+- GitHub: [fikriazain](https://github.com/fikriazain)
+
+### Name : [Fajar Nur Trengginas](https://github.com/devfajar)
+
+- Place: Jombang, Indonesia
+- Bio: Student at software engineering
+- GitHub: [devfajar](https://github.com/devfajar)
+
