@@ -268,6 +268,10 @@
 - Bio: Self motivated software developer. Technophile.
 - GitHub: [@joe733](https://github.com/joe733)
 
+#### Name: [Shubham Solanki](https://github.com/shubhamsolank24)
+- Place: muzaffarnagar, Uttar pradesh, India
+- Bio: a UG student.
+- GitHub: [shubhamsolank24](https://github.com/shubhamsolank24)
 
 ### Name : [Ricardo Dantas](https://dantas.tk)
 
@@ -287,5 +291,4 @@
 - Place: Jombang, Indonesia
 - Bio: Student at software engineering
 - GitHub: [devfajar](https://github.com/devfajar)
-
 
