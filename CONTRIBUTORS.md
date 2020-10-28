@@ -325,3 +325,8 @@
 - Bio: Student at software engineering
 - GitHub: [devfajar](https://github.com/devfajar)
 
+### Name : [tboonma](https://github.com/tboonma)
+
+- Place: Thailand
+- Bio: Create a life you CAN'T wait to WAKE UP TO
+- GitHub: [tboonma](https://github.com/tboonma)
