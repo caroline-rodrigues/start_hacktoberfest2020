@@ -325,3 +325,8 @@
 - Bio: Student at software engineering
 - GitHub: [devfajar](https://github.com/devfajar)
 
+### Name : [Bethany Thompson](https://github.com/devfajar)
+
+- Place: Texas, United States
+- Bio: Data Science Student at a coding bootcamp
+- GitHub: [ThompsonBethany01](https://github.com/ThompsonBethany01)
