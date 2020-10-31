@@ -4,6 +4,13 @@
 
 ### Hi there follow the pattern to add your bio
 
+#### Name: [ARYAN ANAND](https://github.com/aryan-anand-2003)
+- Place: Jamshedpur, Jharkhand, India
+- Bio: Cute 11th Grader from India
+- GitHub: [aryan-anand-2003](https://github.com/aryan-anand-2003)
+
+
+
 
 #### Name: [Caroline Rodrigues](https://github.com/caroline-rodrigues)
 
