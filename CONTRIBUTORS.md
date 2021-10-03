@@ -325,3 +325,9 @@
 - Bio: Student at software engineering
 - GitHub: [devfajar](https://github.com/devfajar)
 
+#### Name: [Uziel Cocolan](https://github.com/ushieru)
+
+- Place: Jalisco, Mexico
+- Bio: Fullstack Developer
+- Github: [Ushieru](https://github.com/ushieru)
+
